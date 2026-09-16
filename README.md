@@ -1,7 +1,7 @@
 # Overview
 
 This repository contains an Arduino sketch and documentation to read and potentially modify data stored in the **M35080 EEPROM** found in some Opel vehicles.
-This **M35080 EEPROM** it's present in the Instrument Panel Cluster (IPC) and stores critical vehicle information such as the kilometrage (mileage), VIN (Vehicle Identification Number), and the vehicle pin/security code...
+This M35080 EEPROM it's present in the Instrument Panel Cluster (IPC) and stores critical vehicle information such as the kilometrage (mileage), VIN (Vehicle Identification Number), and the vehicle pin/security code...
 
 ## Pinout and Diagrams
 
